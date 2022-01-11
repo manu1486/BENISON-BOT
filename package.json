@@ -1,5 +1,5 @@
 {
-  "name": "catBot",
+  "name": "BENISON-BOT",
   "version": "2.0.0",
   "description": "catbot whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./catboz/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Itsmebasil8/catboz"
+    "url": "git+https://github.com/manu1468/catboz"
   },
   "keywords": [
     "WhatsApp",
@@ -16,7 +16,7 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "basilser / @karthik-terror-boy",
+  "developer": "Benison_Boy / @karthik-terror-boy",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/Itsmebasil8/catboz/issues"
