@@ -10,14 +10,14 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/h0S3Z4D.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/Basilser-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CATBOT" src="https://img.shields.io/badge/ManuSir-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-BenisonSir/catbots?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">basilser</a> to make it public
+Project created by <a href="https://github.com/manu1486">manu1486</a> to make it public
     <br>
        | © |
         Reserved |
